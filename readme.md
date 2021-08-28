@@ -2,9 +2,9 @@
 So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
-## Use [Alpha](https://github.com/XcodersHub/TorToolkitX/tree/alpha) branch if you want to try latest features.
+## Use [Alpha](https://github.com/RICHARMDROYAMS/ABOWKFOSJDKSKSKSKSKS/tree/alpha) branch if you want to try latest features.
 
-## For any help join this:- [Xcodershub](https://t.me/XcodersHubChat)
+## For any help join this:- [lyukarlegabsdk](https://t.me/lund)
 
 ## Whats new
 - MegaDL added
@@ -14,7 +14,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 Table of Content
 - [FEATURES](#features)
-- [TEST THE BOT (DEMO)](https://t.me/TorToolKit)
+- [TEST THE BOT (DEMO)](httpslandme)
 - [DEPLOYMENT METHODS](#deployment)
   - [Heroku](#heroku)
   - [Zeet](#zeet)
@@ -59,7 +59,7 @@ Click the logo to see the video guide to see how to deploy. The web is not yet a
 ## ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-### [Deploy with Docker Video](https://youtu.be/c8_TU1sPK08)
+### [Deploy with Docker Video](https://youtu.be/lundlesPK08)
 
 
 Steps:-
@@ -84,7 +84,7 @@ Steps:-
     2. `docker-compose up`
 
 ### ***VPS Deployment Without Docker***
-### [Demo video for Deployment Without Docker](https://youtu.be/HYjG4-VfxXs)
+### [Demo video for Deployment Without Docker](https://youtu.be/muhmeleh-VfxXs)
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
@@ -257,7 +257,7 @@ Steps:-
 
 - `QBitTorrent Configurations`
   - To modify QBT engine Preferences ... Please check `qBittorrent.conf` in root of the repo..
-  - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click here](https://github.com/XcodersHub/TorToolkitX/blob/master/start.sh#L2) to see.
+  - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click https://github.com/RICHARMDROYAMS/ABOWKFOSJDKSKSKSKSKS to see.
 
 
 ## **Rest Variables are not to be changed**
