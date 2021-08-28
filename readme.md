@@ -286,7 +286,7 @@ Steps:-
 # Credits
 [Yash-DK](https://github.com/yash-dk) Owner of TorToolkit Repository
 
-[AmirulAndalib](https://github.com/AmirulAndalib) for modding
+[Amirulmeraland](https://github.com/AmirulAndalib) for modding
 
 [Lonami](https://github.com/LonamiWebs/Telethon/) for awesome Telethon
 
